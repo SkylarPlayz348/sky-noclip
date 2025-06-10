@@ -17,3 +17,7 @@ To enable use the command `/noclip`
 **Left Shift:** +Z
 
 **Left Control:** -Z
+
+## Events
+
+`skynoclip:Toggle`: Called by the server to other clients and to the server so that you can sync with other players
