@@ -20,4 +20,4 @@ To enable use the command `/noclip`
 
 ## Events
 
-`skynoclip:Toggle`: Called by the server to other clients and to the server so that you can sync with other players
+`skynoclip:Toggle`: Called by the client to other clients and to the server so that you can sync with other players
