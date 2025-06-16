@@ -6,7 +6,7 @@ This is a simple noclip script for [HappinessMP](https://happinessmp.net/)
 
 To enable use the command `/noclip`
 
-You can use Left Shift and Control to go Up and Down and Standard `WASD` controls for Forward/Back/Left/Right with rotating left and right being Q and E
+You can use Left Shift and Control to go Up and Down and Standard `WASD` controls for Forward/Back/Left/Right with rotating Left and Right being `Q` and `E`
 
 ### Note:
 
