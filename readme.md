@@ -6,17 +6,11 @@ This is a simple noclip script for [HappinessMP](https://happinessmp.net/)
 
 To enable use the command `/noclip`
 
-**W:** +X
+You can use Left Shift and Control to go Up and Down and Standard `WASD` controls for Forward/Back/Left/Right with rotating left and right being Q and E
 
-**A:** -Y
+### Note:
 
-**S:** +Y
-
-**D:** -X
-
-**Left Shift:** +Z
-
-**Left Control:** -Z
+These controls are based on the player blip on the radar so if you press `A` you move to the left of your player blip
 
 ## Events
 
