@@ -187,6 +187,6 @@ end)
 Events.Subscribe("scriptInit", function()
     Text.AddEntry(
         "NOCLIP_HLP",
-        "X: ~INPUT_MOVE_UP~/~INPUT_MOVE_DOWN~ ~n~Y: ~INPUT_MOVE_LEFT~/~INPUT_MOVE_RIGHT~ ~n~Z: ~INPUT_SPRINT~/~INPUT_DUCK~"
+        "Forward/Back: ~INPUT_MOVE_UP~/~INPUT_MOVE_DOWN~ ~n~Left/Right: ~INPUT_MOVE_LEFT~/~INPUT_MOVE_RIGHT~ ~n~Up/Down: ~INPUT_SPRINT~/~INPUT_DUCK~ ~n~Turn Left/Turn Right: ~INPUT_MELEE_KICK~/~INPUT_PICKUP~"
     )
 end)
